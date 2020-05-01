@@ -1,0 +1,6 @@
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\bin\Debug\TraceSavedat.exe.config
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\bin\Debug\TraceSavedat.exe
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\bin\Debug\TraceSavedat.pdb
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\obj\Debug\TraceSavedat.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\obj\Debug\TraceSavedat.exe
+C:\Users\Kadir\source\repos\TraceSavedat\TraceSavedat\obj\Debug\TraceSavedat.pdb
